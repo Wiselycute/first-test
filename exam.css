@@ -1,0 +1,32 @@
+
+
+.product-container {
+    display: flex;
+    flex-direction: row;
+    row-gap: 20px;
+
+    
+}
+
+.product-card {
+    flex: 1;
+    border: 2px solid rgb(249, 249, 249);
+    padding: 15px;
+    width: 300px;
+}
+
+.image-product {
+    width: 100%;
+    vertical-align: top;
+}
+
+.buy-button {
+    border-radius: 12px;
+    background-color: rgb(222, 222, 17);
+    border: none;
+    height: 30px;
+    width: 105px;
+    margin-right: 8px;
+    box-shadow: 5px 5px 10px black;
+}
+}

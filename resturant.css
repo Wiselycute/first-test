@@ -1,0 +1,90 @@
+
+h2 {
+    margin-bottom: 0;
+}
+
+.explore {
+    margin: 2px;
+    color: gray;
+    font-size: 14px;
+}
+.span {
+    font-size: 14px;
+    color: rgb(255, 101, 101);
+    margin-left: 370px;
+}
+.main {
+    display: flex;
+    flex-direction: row;
+    row-gap: 100px;
+}
+.img1 {
+    background-image: url("logo/Image2.jpeg");
+    width: 250px;
+    height: 250px;
+    border: 1px solid black;
+    border-radius: 5px;
+    border: none;
+    margin-right: 15px;
+}
+
+.img1 p {
+    color: white;
+}
+
+
+
+
+.img2 {
+    background-image: url("logo/image3.jpeg");
+    width: 250px;
+    height: 250px;
+    border: 1px solid black;
+    border-radius: 5px;
+    border: none;
+    margin-right: 15px;
+}
+
+.img2 p {
+    color: white;
+}
+
+.img3 {
+    background-image: url("logo/img1.jpeg");
+    width: 250px;
+    height: 250px;
+    border: 1px solid black;
+    border-radius: 5px;
+    border: none;
+    margin-right: 15px;
+}
+
+.img3 p {
+    color: white;
+}
+
+
+.img4 {
+        background-image: url("logo/image4.jpeg");
+        width: 250px;
+        height: 250px;
+        border: 1px solid black;
+        border-radius: 5px;
+        border: none;
+    }
+    
+    .img4 p {
+color: white;
+
+    }
+
+    .update {
+        font-size: 14px;
+        margin-top: 200px;
+    }
+
+    .location {
+       font-size: 12px;
+       margin-bottom: 50px;
+    }
+        
